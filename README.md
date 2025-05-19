@@ -1,4 +1,5 @@
 # git-ApnaCollege
+
 Git Repo
 <br>
-by Apna college
+by Apna college Author - Pratham Sharma
